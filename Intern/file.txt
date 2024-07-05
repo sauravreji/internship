@@ -1,1 +1,0 @@
-line studentid gpa
